@@ -1,5 +1,4 @@
-# Accesibilidad Universal y Diseño para Todos 
-# 2024-2025
+# Accesibilidad Universal y Diseño para Todos 2024-2025
 
 ¡Bienvenido! En este repositorio se encuentran todos los materiales correspondientes a la asignatura de Accesibilidad Universal y Diseño para Todos, relativa a la parte obligatoria del Reconocimiento Académico de Créditos de la Universidad Rey Juan Carlos.
 
